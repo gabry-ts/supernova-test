@@ -1,0 +1,28 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --letter-spacing-hon-primitive-font-letter-spacing-sm: -0.16px;
+  --letter-spacing-hon-primitive-font-letter-spacing-lg: 0.16px;
+  --letter-spacing-hon-primitive-font-letter-spacing-md: var(--dimension-hon-primitive-dimension-0);
+  --letter-spacing-hon-semantic-font-title-lg-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-title-xl-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-title-md-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-title-sm-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-title-xs-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-heading-md-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-lg);
+  --letter-spacing-hon-semantic-font-body-xl-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-link-md-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-link-sm-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-link-xs-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-functional-navbar-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-functional-badge-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-lg);
+  --letter-spacing-hon-semantic-font-button-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-heading-sm-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-lg);
+  --letter-spacing-hon-semantic-font-body-lg-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-body-md-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-body-sm-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+  --letter-spacing-hon-semantic-font-body-xs-letter-spacing: var(--letter-spacing-hon-primitive-font-letter-spacing-md);
+}

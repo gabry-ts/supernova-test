@@ -1,0 +1,80 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --dimension-hon-primitive-dimension-0: 0px;
+  --dimension-hon-primitive-dimension-1: 1px;
+  --dimension-hon-primitive-dimension-2: 2px;
+  --dimension-hon-primitive-dimension-4: 4px;
+  --dimension-hon-primitive-dimension-6: 6px;
+  --dimension-hon-primitive-dimension-8: 8px;
+  --dimension-hon-primitive-dimension-10: 10px;
+  --dimension-hon-primitive-dimension-12: 12px;
+  --dimension-hon-primitive-dimension-14: 14px;
+  --dimension-hon-primitive-dimension-16: 16px;
+  --dimension-hon-primitive-dimension-18: 18px;
+  --dimension-hon-primitive-dimension-20: 20px;
+  --dimension-hon-primitive-dimension-24: 24px;
+  --dimension-hon-primitive-dimension-28: 28px;
+  --dimension-hon-primitive-dimension-32: 32px;
+  --dimension-hon-primitive-dimension-36: 36px;
+  --dimension-hon-primitive-dimension-40: 40px;
+  --dimension-hon-primitive-dimension-44: 44px;
+  --dimension-hon-primitive-dimension-48: 48px;
+  --dimension-hon-primitive-dimension-52: 52px;
+  --dimension-hon-primitive-dimension-56: 56px;
+  --dimension-hon-primitive-dimension-60: 60px;
+  --dimension-hon-primitive-dimension-64: 64px;
+  --dimension-hon-primitive-dimension-88: 88px;
+  --dimension-hon-primitive-dimension-96: 96px;
+  --dimension-hon-primitive-dimension-100: 100px;
+  --dimension-hon-primitive-dimension-120: 120px;
+  --dimension-hon-primitive-dimension-128: 128px;
+  --dimension-hon-primitive-dimension-136: 136px;
+  --dimension-hon-primitive-dimension-140: 140px;
+  --dimension-hon-primitive-dimension-152: 152px;
+  --dimension-hon-primitive-dimension-156: 156px;
+  --dimension-hon-primitive-dimension-160: 160px;
+  --dimension-hon-primitive-dimension-176: 176px;
+  --dimension-hon-primitive-dimension-192: 192px;
+  --dimension-hon-primitive-dimension-200: 200px;
+  --dimension-hon-primitive-dimension-212: 212px;
+  --dimension-hon-primitive-dimension-222: 222px;
+  --dimension-hon-primitive-dimension-240: 240px;
+  --dimension-hon-primitive-dimension-256: 256px;
+  --dimension-hon-primitive-dimension-258: 258px;
+  --dimension-hon-primitive-dimension-260: 260px;
+  --dimension-hon-primitive-dimension-268: 268px;
+  --dimension-hon-primitive-dimension-272: 272px;
+  --dimension-hon-primitive-dimension-285: 285px;
+  --dimension-hon-primitive-dimension-296: 296px;
+  --dimension-hon-primitive-dimension-304: 304px;
+  --dimension-hon-primitive-dimension-312: 312px;
+  --dimension-hon-primitive-dimension-328: 328px;
+  --dimension-hon-primitive-dimension-360: 360px;
+  --dimension-hon-primitive-dimension-644: 644px;
+  --dimension-hon-primitive-dimension-780: 780px;
+  --dimension-hon-semantic-grid-columns-count: var(--dimension-hon-primitive-dimension-8);
+  --dimension-hon-semantic-grid-columns-gutter: var(--dimension-hon-primitive-dimension-16);
+  --dimension-hon-semantic-grid-columns-margin: var(--dimension-hon-primitive-dimension-16);
+  --dimension-hon-semantic-grid-rows-gutter: var(--dimension-hon-primitive-dimension-4);
+  --dimension-hon-semantic-grid-rows-offset: var(--dimension-hon-primitive-dimension-0);
+  --dimension-hon-semantic-grid-rows-height: var(--dimension-hon-primitive-dimension-4);
+  --dimension-hon-semantic-border-radius-lg: var(--dimension-hon-primitive-dimension-12);
+  --dimension-hon-semantic-border-radius-xl: var(--dimension-hon-primitive-dimension-24);
+  --dimension-hon-semantic-border-radius-xxl: var(--dimension-hon-primitive-dimension-32);
+  --dimension-hon-semantic-border-radius-round: var(--dimension-hon-primitive-dimension-100);
+  --dimension-hon-semantic-border-weight-1: var(--dimension-hon-primitive-dimension-1);
+  --dimension-hon-semantic-border-weight-2: var(--dimension-hon-primitive-dimension-2);
+  --dimension-hon-components-button-action-btn-sm-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
+  --dimension-hon-components-button-action-btn-md-corner-radius: var(--dimension-hon-semantic-border-radius-lg);
+  --dimension-hon-components-button-icon-btn-sm-corner-radius: var(--dimension-hon-semantic-border-radius-round);
+  --dimension-hon-components-button-icon-btn-md-corner-radius: var(--dimension-hon-semantic-border-radius-round);
+  --dimension-hon-components-vertical-slider-thumb-corner-radius-bottom-right-default: var(--dimension-hon-semantic-border-radius-xxl);
+  --dimension-hon-components-vertical-slider-thumb-corner-radius-bottom-left-default: var(--dimension-hon-semantic-border-radius-xxl);
+  --dimension-hon-components-vertical-slider-thumb-corner-radius-top-right-default: var(--border-radius-hon-semantic-border-radius-none);
+  --dimension-hon-components-vertical-slider-thumb-corner-radius-top-left-default: var(--border-radius-hon-semantic-border-radius-none);
+  --dimension-hon-components-vertical-slider-thumb-corner-radius-total-full: var(--dimension-hon-semantic-border-radius-xxl);
+}

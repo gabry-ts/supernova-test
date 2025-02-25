@@ -1,0 +1,15 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --border-width-hon-components-button-action-btn-sm-stroke: var(--dimension-hon-semantic-border-weight-1);
+  --border-width-hon-components-button-action-btn-md-stroke: var(--dimension-hon-semantic-border-weight-1);
+  --border-width-hon-components-button-icon-btn-sm-stroke: var(--dimension-hon-semantic-border-weight-1);
+  --border-width-hon-components-button-icon-btn-md-stroke: var(--dimension-hon-semantic-border-weight-1);
+  --border-width-hon-components-program-item-tag-stroke-weight: var(--dimension-hon-semantic-border-weight-1);
+  --border-width-hon-components-bottom-bar-stroke-weight: var(--dimension-hon-semantic-border-weight-1);
+  --border-width-hon-components-top-bar-dropdown-menu-dot-stroke-weight: var(--dimension-hon-semantic-border-weight-1);
+  --border-width-hon-components-program-item-favicon-stroke-weight: var(--dimension-hon-semantic-border-weight-1);
+}

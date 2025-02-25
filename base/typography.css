@@ -1,0 +1,29 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --typography-title-extra-large: var(--font-weight-hon-semantic-font-title-xl-weight) var(--font-size-hon-semantic-font-title-xl-size)/var(--line-height-hon-semantic-font-title-xl-line-height) var(--font-family-hon-semantic-font-title-xl-typeface);
+  --typography-title-large: var(--font-weight-hon-semantic-font-title-lg-weight) var(--font-size-hon-semantic-font-title-lg-size)/var(--line-height-hon-semantic-font-title-lg-line-height) var(--font-family-hon-semantic-font-title-lg-typeface);
+  --typography-title-medium: var(--font-weight-hon-semantic-font-title-md-weight) var(--font-size-hon-semantic-font-title-md-size)/var(--line-height-hon-semantic-font-title-md-line-height) var(--font-family-hon-semantic-font-title-md-typeface);
+  --typography-title-small: var(--font-weight-hon-semantic-font-title-sm-weight) var(--font-size-hon-semantic-font-title-sm-size)/var(--line-height-hon-semantic-font-title-sm-line-height) var(--font-family-hon-semantic-font-title-sm-typeface);
+  --typography-title-extra-small: var(--font-weight-hon-semantic-font-title-xs-weight) var(--font-size-hon-semantic-font-title-xs-size)/var(--line-height-hon-semantic-font-title-xs-line-height) var(--font-family-hon-semantic-font-title-xs-typeface);
+  --typography-heading-medium: var(--font-weight-hon-semantic-font-heading-md-weight) var(--font-size-hon-semantic-font-heading-md-size)/var(--line-height-hon-semantic-font-heading-md-line-height) var(--font-family-hon-semantic-font-heading-md-typeface);
+  --typography-heading-small: var(--font-weight-hon-semantic-font-heading-sm-weight) var(--font-size-hon-semantic-font-heading-sm-size)/var(--line-height-hon-semantic-font-heading-sm-line-height) var(--font-family-hon-semantic-font-heading-sm-typeface);
+  --typography-body-extra-large-regular: var(--font-weight-hon-semantic-font-body-xl-weight-regular) var(--font-size-hon-semantic-font-body-xl-size)/var(--line-height-hon-semantic-font-body-xl-line-height) var(--font-family-hon-semantic-font-body-xl-typeface);
+  --typography-body-large-bold: var(--font-weight-hon-semantic-font-body-lg-weight-bold) var(--font-size-hon-semantic-font-body-lg-size)/var(--line-height-hon-semantic-font-body-lg-line-height) var(--font-family-hon-semantic-font-body-lg-typeface);
+  --typography-body-medium-regular: var(--font-weight-hon-semantic-font-body-md-weight-regular) var(--font-size-hon-semantic-font-body-md-size)/var(--line-height-hon-semantic-font-body-md-line-height) var(--font-family-hon-semantic-font-body-md-typeface);
+  --typography-body-small-regular: var(--font-weight-hon-semantic-font-body-sm-weight-regular) var(--font-size-hon-semantic-font-body-sm-size)/var(--line-height-hon-semantic-font-body-sm-line-height) var(--font-family-hon-semantic-font-body-sm-typeface);
+  --typography-body-small-bold: var(--font-weight-hon-semantic-font-body-sm-weight-bold) var(--font-size-hon-semantic-font-body-sm-size)/var(--line-height-hon-semantic-font-body-sm-line-height) var(--font-family-hon-semantic-font-body-sm-typeface);
+  --typography-body-extra-small-regular: var(--font-weight-hon-semantic-font-body-xs-weight-regular) var(--font-size-hon-semantic-font-body-xs-size)/var(--line-height-hon-semantic-font-body-xs-line-height) var(--font-family-hon-semantic-font-body-xs-typeface);
+  --typography-button-default: var(--font-weight-hon-semantic-font-button-weight) var(--font-size-hon-semantic-font-button-size)/var(--line-height-hon-semantic-font-button-line-height) var(--font-family-hon-semantic-font-button-typeface);
+  --typography-button-underlined: var(--font-weight-hon-semantic-font-button-weight) var(--font-size-hon-semantic-font-button-size)/var(--line-height-hon-semantic-font-button-line-height) var(--font-family-hon-semantic-font-button-typeface);
+  --typography-button-link-button: var(--font-weight-hon-semantic-font-button-weight) var(--font-size-hon-semantic-font-button-size)/var(--line-height-hon-semantic-font-button-line-height) var(--font-family-hon-semantic-font-button-typeface);
+  --typography-functional-text-badge: var(--font-weight-hon-semantic-font-functional-badge-weight) var(--font-size-hon-semantic-font-functional-badge-size)/var(--line-height-hon-semantic-font-functional-badge-line-height) var(--font-family-hon-semantic-font-functional-badge-typeface);
+  --typography-functional-text-navbar: var(--font-weight-hon-semantic-font-functional-navbar-weight) var(--font-size-hon-semantic-font-functional-navbar-size)/var(--line-height-hon-semantic-font-functional-navbar-line-height) var(--font-family-hon-semantic-font-functional-navbar-typeface);
+  --typography-body-extra-large-bold: var(--font-weight-hon-semantic-font-body-xl-weight-bold) var(--font-size-hon-semantic-font-body-xl-size)/var(--line-height-hon-semantic-font-body-xl-line-height) var(--font-family-hon-semantic-font-body-xl-typeface);
+  --typography-body-medium-bold: var(--font-weight-hon-semantic-font-body-md-weight-bold) var(--font-size-hon-semantic-font-body-md-size)/var(--line-height-hon-semantic-font-body-md-line-height) var(--font-family-hon-semantic-font-body-md-typeface);
+  --typography-body-extra-small-bold: var(--font-weight-hon-semantic-font-body-xs-weight-bold) var(--font-size-hon-semantic-font-body-xs-size)/var(--line-height-hon-semantic-font-body-xs-line-height) var(--font-family-hon-semantic-font-body-xs-typeface);
+  --typography-body-large-regular: var(--font-weight-hon-semantic-font-body-lg-weight-regular) var(--font-size-hon-semantic-font-body-lg-size)/var(--line-height-hon-semantic-font-body-lg-line-height) var(--font-family-hon-semantic-font-body-lg-typeface);
+}
