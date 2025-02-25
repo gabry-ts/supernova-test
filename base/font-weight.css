@@ -1,0 +1,33 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --font-weight-hon-primitive-font-weight-regular: 400;
+  --font-weight-hon-primitive-font-weight-bold: 700;
+  --font-weight-hon-primitive-font-weight-black: 900;
+  --font-weight-hon-semantic-font-title-lg-weight: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-title-xl-weight: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-title-md-weight: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-title-sm-weight: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-title-xs-weight: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-heading-md-weight: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-body-xl-weight-regular: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-body-xl-weight-bold: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-link-md-weight: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-link-sm-weight: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-link-xs-weight: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-functional-navbar-weight: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-functional-badge-weight: var(--font-weight-hon-primitive-font-weight-black);
+  --font-weight-hon-semantic-font-button-weight: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-heading-sm-weight: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-body-lg-weight-regular: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-body-lg-weight-bold: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-body-md-weight-regular: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-body-md-weight-bold: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-body-sm-weight-regular: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-body-sm-weight-bold: var(--font-weight-hon-primitive-font-weight-bold);
+  --font-weight-hon-semantic-font-body-xs-weight-regular: var(--font-weight-hon-primitive-font-weight-regular);
+  --font-weight-hon-semantic-font-body-xs-weight-bold: var(--font-weight-hon-primitive-font-weight-bold);
+}
