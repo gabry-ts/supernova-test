@@ -1,9 +1,0 @@
-/**
- * This file was generated automatically by Supernova.io and should not be changed manually.
- * To modify the format or content of this file, please contact your design system team. 
- */
-
-:root {
-  --border-radius-hon-components-item-message-corner-radius: var(--dimension-hon-sem-border-radius-md);
-  --border-radius-hon-components-item-list-corner-radius: var(--dimension-hon-sem-border-radius-md);
-}
