@@ -1,0 +1,12 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --size-hon-semantic-size-644: var(--dimension-hon-primitive-dimension-644);
+  --size-hon-components-snackbar-icon-size: var(--dimension-hon-sem-icon-sm);
+  --size-hon-components-item-message-min-width: var(--dimension-hon-sem-size-304);
+  --size-hon-components-item-message-height: var(--dimension-hon-sem-size-64);
+  --size-hon-components-scroll-bar-track-min-height: var(--size-hon-semantic-size-644);
+}

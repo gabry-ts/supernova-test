@@ -1,0 +1,29 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --typography-title-extra-large: var(--string-hon-sem-font-title-xl-weight) var(--dimension-hon-sem-font-title-xl-size)/var(--dimension-hon-sem-font-title-xl-line-height) var(--string-hon-sem-font-title-xl-typeface);
+  --typography-title-large: var(--string-hon-sem-font-title-lg-weight) var(--dimension-hon-sem-font-title-lg-size)/var(--dimension-hon-sem-font-title-lg-line-height) var(--string-hon-sem-font-title-lg-typeface);
+  --typography-title-medium: var(--string-hon-sem-font-title-md-weight) var(--dimension-hon-sem-font-title-md-size)/var(--dimension-hon-sem-font-title-md-line-height) var(--string-hon-sem-font-title-md-typeface);
+  --typography-title-small: var(--string-hon-sem-font-title-sm-weight) var(--dimension-hon-sem-font-title-sm-size)/var(--dimension-hon-sem-font-title-sm-line-height) var(--string-hon-sem-font-title-sm-typeface);
+  --typography-title-extra-small: var(--string-hon-sem-font-title-xs-weight) var(--dimension-hon-sem-font-title-xs-size)/var(--dimension-hon-sem-font-title-xs-line-height) var(--string-hon-sem-font-title-xs-typeface);
+  --typography-heading-medium: var(--string-hon-sem-font-heading-md-weight) var(--dimension-hon-sem-font-heading-md-size)/var(--dimension-hon-sem-font-heading-md-line-height) var(--string-hon-sem-font-heading-md-typeface);
+  --typography-heading-small: var(--string-hon-sem-font-heading-sm-weight) var(--dimension-hon-sem-font-heading-sm-size)/var(--dimension-hon-sem-font-heading-sm-line-height) var(--string-hon-sem-font-heading-sm-typeface);
+  --typography-body-extra-large-regular: var(--string-hon-sem-font-body-xl-weight-regular) var(--dimension-hon-sem-font-body-xl-size)/var(--dimension-hon-sem-font-body-xl-line-height) var(--string-hon-sem-font-body-xl-typeface);
+  --typography-body-large-bold: var(--string-hon-sem-font-body-lg-weight-bold) var(--dimension-hon-sem-font-body-lg-size)/var(--dimension-hon-sem-font-body-lg-line-height) var(--string-hon-sem-font-body-lg-typeface);
+  --typography-body-medium-regular: var(--string-hon-sem-font-body-md-weight-regular) var(--dimension-hon-sem-font-body-md-size)/var(--dimension-hon-sem-font-body-md-line-height) var(--string-hon-sem-font-body-md-typeface);
+  --typography-body-small-regular: var(--string-hon-sem-font-body-sm-weight-regular) var(--dimension-hon-sem-font-body-sm-size)/var(--dimension-hon-sem-font-body-sm-line-height) var(--string-hon-sem-font-body-sm-typeface);
+  --typography-body-small-bold: var(--string-hon-sem-font-body-sm-weight-bold) var(--dimension-hon-sem-font-body-sm-size)/var(--dimension-hon-sem-font-body-sm-line-height) var(--string-hon-sem-font-body-sm-typeface);
+  --typography-body-extra-small-regular: var(--string-hon-sem-font-body-xs-weight-regular) var(--dimension-hon-sem-font-body-xs-size)/var(--dimension-hon-sem-font-body-xs-line-height) var(--string-hon-sem-font-body-xs-typeface);
+  --typography-button-default: var(--string-hon-sem-font-button-weight) var(--dimension-hon-sem-font-button-size)/var(--dimension-hon-sem-font-button-line-height) var(--string-hon-sem-font-button-typeface);
+  --typography-button-underlined: var(--string-hon-sem-font-button-weight) var(--dimension-hon-sem-font-button-size)/var(--dimension-hon-sem-font-button-line-height) var(--string-hon-sem-font-button-typeface);
+  --typography-button-link-button: var(--string-hon-sem-font-button-weight) var(--dimension-hon-sem-font-button-size)/var(--dimension-hon-sem-font-button-line-height) var(--string-hon-sem-font-button-typeface);
+  --typography-functional-text-badge: var(--string-hon-sem-font-functional-badge-weight) var(--dimension-hon-sem-font-functional-badge-size)/var(--dimension-hon-sem-font-functional-badge-line-height) var(--string-hon-sem-font-functional-badge-typeface);
+  --typography-functional-text-navbar: var(--string-hon-sem-font-functional-navbar-weight) var(--dimension-hon-sem-font-functional-navbar-size)/var(--dimension-hon-sem-font-functional-navbar-line-height) var(--string-hon-sem-font-functional-navbar-typeface);
+  --typography-body-extra-large-bold: var(--string-hon-sem-font-body-xl-weight-bold) var(--dimension-hon-sem-font-body-xl-size)/var(--dimension-hon-sem-font-body-xl-line-height) var(--string-hon-sem-font-body-xl-typeface);
+  --typography-body-medium-bold: var(--string-hon-sem-font-body-md-weight-bold) var(--dimension-hon-sem-font-body-md-size)/var(--dimension-hon-sem-font-body-md-line-height) var(--string-hon-sem-font-body-md-typeface);
+  --typography-body-extra-small-bold: var(--string-hon-sem-font-body-xs-weight-bold) var(--dimension-hon-sem-font-body-xs-size)/var(--dimension-hon-sem-font-body-xs-line-height) var(--string-hon-sem-font-body-xs-typeface);
+  --typography-body-large-regular: var(--string-hon-sem-font-body-lg-weight-regular) var(--dimension-hon-sem-font-body-lg-size)/var(--dimension-hon-sem-font-body-lg-line-height) var(--string-hon-sem-font-body-lg-typeface);
+}

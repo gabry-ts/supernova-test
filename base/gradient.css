@@ -1,0 +1,14 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+:root {
+  --gradient-gradient-modal-brand: linear-gradient(180deg, var(--color-hon-pri-color-blue-100) 0%, var(--color-hon-pri-color-sand-0-op) 100%);
+  --gradient-gradient-surface-medium: linear-gradient(180deg, var(--color-hon-pri-color-sand-0-op) 0%, var(--color-hon-sem-color-surface-low) 64%);
+  --gradient-gradient-statistics-intensity: linear-gradient(90deg, var(--color-hon-sem-color-statistics-energy-level-1-solid) 0%, var(--color-hon-sem-color-statistics-energy-level-2-solid) 50%, var(--color-hon-sem-color-statistics-energy-level-3-solid) 100%);
+  --gradient-gradient-statistics-energy-level-1: linear-gradient(0deg, var(--color-hon-sem-color-statistics-energy-level-1-fade) 0%, var(--color-hon-sem-color-statistics-energy-level-1-solid) 100%);
+  --gradient-gradient-statistics-energy-level-3: linear-gradient(180deg, var(--color-hon-sem-color-statistics-energy-level-3-solid) 0%, var(--color-hon-sem-color-statistics-energy-level-3-fade) 100%);
+  --gradient-gradient-modal-eco: linear-gradient(180deg, var(--color-hon-pri-color-eco-100) 0%, var(--color-hon-pri-color-eco-0-op) 100%);
+  --gradient-gradient-modal-error: linear-gradient(180deg, var(--color-hon-sem-color-state-error) 0%, var(--color-hon-pri-color-sand-0-op) 100%);
+}
