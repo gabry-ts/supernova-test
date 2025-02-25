@@ -4,31 +4,5 @@
  */
 
 :root {
-  --line-height-hon-primitive-font-line-height-xxs: var(--dimension-hon-primitive-dimension-12);
-  --line-height-hon-primitive-font-line-height-xs: var(--dimension-hon-primitive-dimension-16);
-  --line-height-hon-primitive-font-line-height-sm: var(--dimension-hon-primitive-dimension-20);
-  --line-height-hon-primitive-font-line-height-md: var(--dimension-hon-primitive-dimension-24);
-  --line-height-hon-primitive-font-line-height-lg: var(--dimension-hon-primitive-dimension-28);
-  --line-height-hon-primitive-font-line-height-xl: var(--dimension-hon-primitive-dimension-32);
-  --line-height-hon-primitive-font-line-height-xxl: var(--dimension-hon-primitive-dimension-36);
-  --line-height-hon-primitive-font-line-height-xxxl: var(--dimension-hon-primitive-dimension-44);
-  --line-height-hon-semantic-font-title-lg-line-height: var(--line-height-hon-primitive-font-line-height-xxl);
-  --line-height-hon-semantic-font-title-xl-line-height: var(--line-height-hon-primitive-font-line-height-xxxl);
-  --line-height-hon-semantic-font-title-md-line-height: var(--line-height-hon-primitive-font-line-height-xl);
-  --line-height-hon-semantic-font-title-sm-line-height: var(--line-height-hon-primitive-font-line-height-lg);
-  --line-height-hon-semantic-font-title-xs-line-height: var(--line-height-hon-primitive-font-line-height-md);
-  --line-height-hon-semantic-font-heading-md-line-height: var(--line-height-hon-primitive-font-line-height-sm);
-  --line-height-hon-semantic-font-body-xl-line-height: var(--line-height-hon-primitive-font-line-height-xl);
-  --line-height-hon-semantic-font-link-md-line-height: var(--line-height-hon-primitive-font-line-height-md);
-  --line-height-hon-semantic-font-link-sm-line-height: var(--line-height-hon-primitive-font-line-height-sm);
-  --line-height-hon-semantic-font-link-xs-line-height: var(--line-height-hon-primitive-font-line-height-xs);
-  --line-height-hon-semantic-font-functional-navbar-line-height: var(--line-height-hon-primitive-font-line-height-xxs);
-  --line-height-hon-semantic-font-functional-badge-line-height: var(--line-height-hon-primitive-font-line-height-xs);
-  --line-height-hon-semantic-font-button-line-height: var(--line-height-hon-primitive-font-line-height-md);
-  --line-height-hon-semantic-font-heading-sm-line-height: var(--line-height-hon-primitive-font-line-height-xs);
-  --line-height-hon-semantic-font-body-lg-line-height: var(--line-height-hon-primitive-font-line-height-lg);
-  --line-height-hon-semantic-font-body-md-line-height: var(--line-height-hon-primitive-font-line-height-md);
-  --line-height-hon-semantic-font-body-sm-line-height: var(--line-height-hon-primitive-font-line-height-sm);
-  --line-height-hon-semantic-font-body-xs-line-height: var(--line-height-hon-primitive-font-line-height-xs);
-  --line-height-hon-semantic-font-button-line-height-link: var(--line-height-hon-primitive-font-line-height-md);
+  --line-height-hon-semantic-font-button-line-height-link: var(--dimension-hon-pri-font-line-height-md);
 }

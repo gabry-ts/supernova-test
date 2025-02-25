@@ -4,5 +4,5 @@
  */
 
 :root {
-  --shadow-shadow: 0px 1px 3px 0px var(--color-hon-semantic-color-elevation-shadow-high), 0px 4px 8px 3px var(--color-hon-semantic-color-elevation-shadow-low);
+  --shadow-shadow: 0px 1px 3px 0px var(--color-hon-sem-color-elevation-shadow-high), 0px 4px 8px 3px var(--color-hon-sem-color-elevation-shadow-low);
 }

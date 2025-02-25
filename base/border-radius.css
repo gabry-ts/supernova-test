@@ -4,53 +4,6 @@
  */
 
 :root {
-  --border-radius-hon-semantic-border-radius-none: var(--dimension-hon-primitive-dimension-0);
-  --border-radius-hon-semantic-border-radius-xs: var(--dimension-hon-primitive-dimension-4);
-  --border-radius-hon-semantic-border-radius-sm: var(--dimension-hon-primitive-dimension-6);
-  --border-radius-hon-semantic-border-radius-md: var(--dimension-hon-primitive-dimension-8);
-  --border-radius-hon-components-badge-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-chip-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-snackbar-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-wheel-picker-input-corner-radius: var(--border-radius-hon-semantic-border-radius-sm);
-  --border-radius-hon-components-program-item-tag-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-program-item-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-text-field-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-card-item-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-item-message-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-info-box-favicon-corner-radius: var(--border-radius-hon-semantic-border-radius-sm);
-  --border-radius-hon-components-item-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-item-list-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-promo-banner-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-loader-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-wheel-picker-corner-radius: var(--dimension-hon-semantic-border-radius-lg);
-  --border-radius-hon-components-vertical-slider-track-corner-radius: var(--dimension-hon-semantic-border-radius-xxl);
-  --border-radius-hon-components-time-slots-panel-slot-corner-radius: var(--border-radius-hon-semantic-border-radius-xs);
-  --border-radius-hon-components-time-slots-panel-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-appliance-card-icon-status-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-appliance-card-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-bottom-bar-item-corner-radius: var(--dimension-hon-semantic-border-radius-lg);
-  --border-radius-hon-components-top-bar-button-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-top-bar-dropdown-menu-corner-radius: var(--dimension-hon-semantic-border-radius-lg);
-  --border-radius-hon-components-progress-stepper-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-program-item-favicon-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-search-field-search-bar-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-tabs-item-indicator-corner-radius: var(--dimension-hon-semantic-border-radius-round);
-  --border-radius-hon-components-statistics-card-empty-state-container-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-statistics-card-empty-state-corner-radius: var(--dimension-hon-semantic-border-radius-lg);
-  --border-radius-hon-components-statistics-card-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-info-box-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-bottom-sheet-modal-content-img-corner-radius: var(--border-radius-hon-semantic-border-radius-sm);
-  --border-radius-hon-components-bottom-sheet-modal-handle-corner-radius: var(--border-radius-hon-semantic-border-radius-xs);
-  --border-radius-hon-components-bottom-sheet-navbar-handle-corner-radius: var(--border-radius-hon-semantic-border-radius-xs);
-  --border-radius-hon-components-bottom-sheet-corner-radius-top: var(--dimension-hon-semantic-border-radius-xl);
-  --border-radius-hon-components-bottom-sheet-corner-radius-bottom: var(--border-radius-hon-semantic-border-radius-none);
-  --border-radius-hon-components-popup-corner-radius: var(--dimension-hon-semantic-border-radius-lg);
-  --border-radius-hon-components-popup-main-container-media-corner-radius: var(--border-radius-hon-semantic-border-radius-xs);
-  --border-radius-hon-components-code-input-field-single-input-big-corner-radius: var(--border-radius-hon-semantic-border-radius-sm);
-  --border-radius-hon-components-editorial-card-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-horizontal-slider-corner-radius: var(--dimension-hon-semantic-border-radius-lg);
-  --border-radius-hon-components-horizontal-slider-step-indicator-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-segmented-control-corner-radius: var(--border-radius-hon-semantic-border-radius-md);
-  --border-radius-hon-components-segmented-control-segment-corner-radius: var(--border-radius-hon-semantic-border-radius-sm);
-  --border-radius-hon-components-code-input-field-single-input-small-corner-radius: var(--border-radius-hon-semantic-border-radius-sm);
+  --border-radius-hon-components-item-message-corner-radius: var(--dimension-hon-sem-border-radius-md);
+  --border-radius-hon-components-item-list-corner-radius: var(--dimension-hon-sem-border-radius-md);
 }
